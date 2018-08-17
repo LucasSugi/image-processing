@@ -1,22 +1,27 @@
-Filtragem unidimensional de uma imagem
+# Restauração de imagem - Filtros para restaurar imagens
 
-Para usar o programa deve-se entrar com:
--nome da imagem
--tipo de filtro(1 - arbitrário, 2- função Gaussiana)
--tamanho do filtro
--pesos do filtro
--dominio da imagem(1 - espacial, 2 - frequencia)
+Entrada do programa: <br/>
+-Nome da imagem original para comparacao <br/>
+-Nome da imagem ruidosa <br/>
+-Opcao de filtro (1 - reducao de ruido local, 2 - mediana, 3 - media contra-harmonica) <br/>
+-Parâmetros do filtro <br/>
 
-Exemplo de entrada:
+Exemplos de entrada: <br/>
 
-cat.png
-1
-5
-0.4 0.2 0.1 0 0.3
-1
+dog_original.png <br/>
+dog_noisy.png <br/>
+1 <br/>
+5 <br/>
+0.025 <br/>
 
-cat.png
-2
-7
-0.7
-2
+dog_original.png <br/>
+dog_noisy.png <br/>
+2 <br/>
+3 <br/>
+7 <br/>
+
+dog_original.png <br/>
+dog_noisy.png <br/>
+3 <br/>
+3 <br/>
+-1.3 <br/>
