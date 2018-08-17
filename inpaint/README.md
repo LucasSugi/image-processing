@@ -1,4 +1,4 @@
-#Inpaint - Recuperação de imagem
+# Inpaint - Recuperação de imagem
 
 Entradas do programa:
 -Nome do imagem original <br/>
