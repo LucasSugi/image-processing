@@ -1,6 +1,6 @@
 # Inpaint - Recuperação de imagem
 
-Entradas do programa:
+Entradas do programa: <br/>
 -Nome do imagem original <br/>
 -Nome do da imagem deteriorada <br/>
 -Nome da mascara para realizar inpaint <br/>
