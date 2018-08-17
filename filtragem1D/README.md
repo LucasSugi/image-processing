@@ -1,7 +1,7 @@
-Filtragem unidimensional de uma imagem
+# Filtragem unidimensional de uma imagem
 
 Para usar o programa deve-se entrar com:
--nome da imagem
+-- nome da imagem
 -tipo de filtro(1 - arbitrário, 2- função Gaussiana)
 -tamanho do filtro
 -pesos do filtro
