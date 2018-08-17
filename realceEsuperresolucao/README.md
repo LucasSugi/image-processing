@@ -1,6 +1,6 @@
 # Tecnicas de realce e superresolucao de imagem
 
-Entrada do programa
+Entrada do programa <br/>
 -Nome do arquivo para as imagens de baixa resolucao <br/>
 -Nome do arquivo para as imagens de alta resolucao <br/>
 -Metodo de realce <br/>
